@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw.-array-/static/css/main.666bee99.css",
+    "main.js": "/hw.-array-/static/js/main.6129c8a7.js",
+    "static/media/GitHub-logo.png": "/hw.-array-/static/media/GitHub-logo.a7cb412dfa89787a0e7a.png",
+    "static/media/unnamed.png": "/hw.-array-/static/media/unnamed.c2d22159f6dd3cf8b41a.png",
+    "index.html": "/hw.-array-/index.html",
+    "main.666bee99.css.map": "/hw.-array-/static/css/main.666bee99.css.map",
+    "main.6129c8a7.js.map": "/hw.-array-/static/js/main.6129c8a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666bee99.css",
+    "static/js/main.6129c8a7.js"
+  ]
+}
