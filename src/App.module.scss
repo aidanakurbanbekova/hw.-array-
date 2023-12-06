@@ -1,7 +1,3 @@
-.App{
-
-
-}
 .header{
   .row{
     display: flex;
@@ -29,9 +25,6 @@
   text-transform: capitalize;
 }
 .cardRow{
-  //display: flex;
-  ////flex-wrap: wrap;
-  //flex-direction: column;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 3px;
